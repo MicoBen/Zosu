@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>上王者之路</title>
+</head>
+<body>
+<page id="myh1"></page>
+</body>
+</html>
+<script>
+  alert("为什么你会点开这个网站呢");
+  alert("是因为好奇吗");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  alert("你相信会有奇迹发生吗");
+  alert("也许真的有奇迹");
+  alert("等等吧");
+  alert("也许真的有呢");
+  alert("先来看几个问题吧");
+  alert("也许奇迹就有了");
+  alert("什么动物打死了却流你的血");
+  alert("蚊子");
+  alert("答对了吗");
+  alert("你好棒");
+  document.getElementById("myh1").innerHTML="好了，不打扰你了，再见，see you！";
+</script>
+
